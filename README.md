@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**KoharuCharlotte/KoharuCharlotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is KoharuCharlotte. A full stack cat !
+----
+## Who am I
+- Network Engineer (BGP, Routing)
+- Senior Python Engineer
+- Senior C Engineer
+- Junior PHP Engineer
+- Junior Golang Engineer
+- A CAT !!!
+----
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KoharuCharlotte&show_icons=true&title_color=fa87b1&icon_color=fa87b1&text_color=CCC&bg_color=3C3F41" alt="KoharuCharlotte's GitHub Stats"/>
